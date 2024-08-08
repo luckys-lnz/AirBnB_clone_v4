@@ -159,6 +159,11 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+- updated the version4 of this app
+Lucky Archobong - [Github](https://github.com/luckys-lnz) / [X.com](https://x.com/Luckystech)
+Deantosh Daiddoh - [Github](https://github.com/deantosh) / [x.com](https://x.com/daiddoh)
+
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
