@@ -34,7 +34,7 @@ def hbnb():
 
     places = storage.all(Place).values()
     places = sorted(places, key=lambda k: k.name)
-    cache_id = uuid4
+    cache_id = uuid4()
     template_file = '0-hbnb.html'if os.path.exists(
         'web_dynamic/templates/0-hbnb.html') else '8-hbnb.html'
     return render_template(template_file,
