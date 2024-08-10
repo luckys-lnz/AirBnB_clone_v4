@@ -56,7 +56,4 @@ ${places[i].description}
 `);
     }
   },
-  error: function (xhr, status) {
-    console.log("error " + status);
-  },
 });
