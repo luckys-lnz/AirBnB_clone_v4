@@ -7,11 +7,17 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
 }
+
 header .logo {
     background: url("../images/logo.png") no-repeat;
     width: 20%;
     height: 100%;
 }
+
+.logo {
+    margin-left: 20px;
+}
+
 #api_status {
     width: 40px;
     height: 40px;
@@ -19,6 +25,11 @@ header .logo {
     border-radius: 50%;
     background-color: #cccccc;
 }
+
+#api_status {
+    margin-right: 20px;
+}
+
 #api_status.available {
     background-color: #ff545f;
 }
